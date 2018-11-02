@@ -1,0 +1,64 @@
+{
+    "type0Goods":[
+        {
+            "goodsId":1,
+            "goodsImg":"http://bpic.588ku.com/element_origin_min_pic/18/06/10/24fee1bb5e4067176a5ac05889fbe241.jpg",
+            "goodsName":"香辣鸡腿堡",
+            "price":18
+        }, {
+            "goodsId":2,
+            "goodsImg":"http://bpic.588ku.com/element_origin_min_pic/18/06/10/24fee1bb5e4067176a5ac05889fbe241.jpg",
+            "goodsName":"田园鸡腿堡",
+            "price":15
+        }, {
+            "goodsId":3,
+            "goodsImg":"http://bpic.588ku.com/element_origin_min_pic/18/06/10/24fee1bb5e4067176a5ac05889fbe241.jpg",
+            "goodsName":"和风汉堡",
+            "price":15
+        }
+    ],
+    "type1Goods":[
+       {
+            "goodsId":5,
+             "goodsImg":"http://bpic.588ku.com/element_origin_min_pic/18/06/10/24fee1bb5e4067176a5ac05889fbe241.jpg",
+            "goodsName":"脆皮炸鸡腿",
+            "price":10
+        }, {
+            "goodsId":6,
+             "goodsImg":"http://bpic.588ku.com/element_origin_min_pic/18/06/10/24fee1bb5e4067176a5ac05889fbe241.jpg",
+            "goodsName":"魔法鸡块",
+            "price":20
+        }, {
+            "goodsId":9,
+             "goodsImg":"http://bpic.588ku.com/element_origin_min_pic/18/06/10/24fee1bb5e4067176a5ac05889fbe241.jpg",
+            "goodsName":"大块鸡米花",
+            "price":15
+        }, {
+            "goodsId":20,
+             "goodsImg":"http://bpic.588ku.com/element_origin_min_pic/18/06/10/24fee1bb5e4067176a5ac05889fbe241.jpg",
+            "goodsName":"香脆鸡柳",
+            "price":17
+        }
+    ],
+    "type2Goods":[
+       {
+            "goodsId":7,
+             "goodsImg":"http://bpic.588ku.com/element_origin_min_pic/18/06/10/24fee1bb5e4067176a5ac05889fbe241.jpg",
+            "goodsName":"可乐大杯",
+            "price":10
+        }, {
+            "goodsId":8,
+             "goodsImg":"http://bpic.588ku.com/element_origin_min_pic/18/06/10/24fee1bb5e4067176a5ac05889fbe241.jpg",
+            "goodsName":"雪顶咖啡",
+            "price":18
+        }
+    ],
+    "type3Goods":[
+        {
+            "goodsId":4,
+             "goodsImg":"http://bpic.588ku.com/element_origin_min_pic/18/06/10/24fee1bb5e4067176a5ac05889fbe241.jpg",
+            "goodsName":"快乐全家桶",
+            "price":80
+        }
+    ]
+}
