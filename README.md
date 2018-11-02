@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pos
 
 > pos
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-money
+收银系统
+>>>>>>> 9a806cd2983a84025ae6c0bbe21187992cb41c3e
